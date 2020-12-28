@@ -1,0 +1,26 @@
+body {
+    display: flex
+}
+
+table {
+    width: 50%;
+    margin: 20px auto;
+    border: 1px solid black;
+    border-radius: 8px;
+    /* border-radius: 50%; */
+    /* box-shadow: 0 0 50vw inset black; */
+    background-color:rgb(226, 154, 103);
+    font-size: larger;
+    padding: 30px
+}
+
+td{
+    padding: 5px;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+
+}
+tbody {
+    /* background-color: grey; */
+}
+
